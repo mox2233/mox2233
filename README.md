@@ -1,18 +1,30 @@
+
+````html
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B61FF,100:FF4ECD&height=220&section=header&text=MOHAMED%20NABIL&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=COMPUTER%20ENGINEER%20%7C%20SOFTWARE%20%7C%20NETWORK%20SECURITY&descAlignY=58&descSize=16&descColor=E6EDF3"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B61FF,100:FF4ECD&height=240&section=header&text=MOHAMED%20NABIL&font=Fira%20Code&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=COMPUTER%20ENGINEER%20%20%7C%20%20SYSTEMS%20%20%7C%20%20NETWORK%20SECURITY&descAlignY=58&descSize=15&descColor=C9D1D9&animation=fadeIn"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=SECURE+SYSTEMS+ENGINEERING;NETWORK+%26+PROTOCOL+ANALYSIS;LOW-LEVEL+%26+SYSTEMS+PROGRAMMING;SOFTWARE+ARCHITECTURE;ENGINEERING+WITH+A+SECURITY+MINDSET"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=SECURE+SYSTEMS+ENGINEERING;NETWORK+%26+PROTOCOL+ANALYSIS;LOW-LEVEL+%26+SYSTEMS+PROGRAMMING;SOFTWARE+ARCHITECTURE;ENGINEERING+WITH+A+SECURITY+MINDSET"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=mox2233&label=PROFILE+VIEWS&color=7B61FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=mox2233&label=PROFILE%20VIEWS&color=7B61FF&style=for-the-badge&base=1337"/>
 
 </div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00D9FF?style=for-the-badge&logo=statuspage&logoColor=white"/>
+<img src="https://img.shields.io/badge/ROLE-ENGINEER-7B61FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-SECURITY-FF4ECD?style=for-the-badge"/>
+
+</div>
+
+<br>
 
 ---
 
@@ -22,9 +34,11 @@
 
 ### MOHAMED NABIL REFAAT
 
-**Computer Engineer | Software Engineer | Network Security Engineer**
+**Computer Engineer** | **Systems Thinker** | **Security Engineer**
 
 </div>
+
+<br>
 
 I am a **Computer Engineer** focused on the intersection of **software engineering, computer networks, systems programming, and cybersecurity**.
 
@@ -33,78 +47,72 @@ My interest goes beyond building applications. I am interested in understanding 
 I approach engineering with a simple principle:
 
 ```text
-UNDERSTAND
-    ↓
-DESIGN
-    ↓
-BUILD
-    ↓
-TEST
-    ↓
-BREAK
-    ↓
-SECURE
-    ↓
-OPTIMIZE
-```
+UNDERSTAND → DESIGN → BUILD → TEST → BREAK → SECURE → OPTIMIZE
+````
 
 I enjoy working on technically challenging problems where **software, networking, and security meet**.
+
+<br>
 
 ---
 
 <div align="center">
 
-# `// ENGINEERING PROFILE`
+# `// CORE DISCIPLINES`
 
 </div>
 
 <table align="center">
 <tr>
+
 <td align="center" width="25%">
 
-<h3>SECURITY</h3>
+<h4>SECURITY</h4>
 
 Network Security<br>
 Traffic Analysis<br>
 Intrusion Detection<br>
-Security Engineering
+Threat Investigation
 
 </td>
 
 <td align="center" width="25%">
 
-<h3>NETWORKING</h3>
+<h4>NETWORKING</h4>
 
-TCP/IP<br>
-Protocols<br>
-Sockets<br>
+TCP/IP Stack<br>
+Protocol Analysis<br>
+Socket Programming<br>
 Network Architecture
 
 </td>
 
 <td align="center" width="25%">
 
-<h3>SYSTEMS</h3>
+<h4>SYSTEMS</h4>
 
 C / C++<br>
 Concurrency<br>
-Performance<br>
-System Architecture
+Performance Engineering<br>
+Low-Level Design
 
 </td>
 
 <td align="center" width="25%">
 
-<h3>SOFTWARE</h3>
+<h4>SOFTWARE</h4>
 
 Backend Engineering<br>
-APIs<br>
-Databases<br>
-Application Architecture
+API Design<br>
+Database Systems<br>
+System Architecture
 
 </td>
+
 </tr>
 </table>
+
+<br>
 
 ---
 
@@ -114,7 +122,7 @@ Application Architecture
 
 </div>
 
-### LANGUAGES
+### `LANGUAGES`
 
 <div align="center">
 
@@ -122,7 +130,9 @@ Application Architecture
 
 </div>
 
-### SOFTWARE ENGINEERING
+<br>
+
+### `FRAMEWORKS & TOOLS`
 
 <div align="center">
 
@@ -130,7 +140,9 @@ Application Architecture
 
 </div>
 
-### DATABASES & INFRASTRUCTURE
+<br>
+
+### `DATABASES & INFRASTRUCTURE`
 
 <div align="center">
 
@@ -138,7 +150,9 @@ Application Architecture
 
 </div>
 
-### OPERATING SYSTEMS & NETWORKING
+<br>
+
+### `SYSTEMS & NETWORK ANALYSIS`
 
 <div align="center">
 
@@ -150,70 +164,50 @@ Application Architecture
 
 </div>
 
+<br>
+
 ---
 
 <div align="center">
 
-# `// SECURITY ENGINEERING`
+# `// SECURITY PERSPECTIVE`
 
 </div>
 
-My security interests are centered around understanding systems from both the **defensive and analytical perspectives**.
+I study systems from both the **defensive** and **analytical** side — because understanding how something can fail is essential to understanding how it can be secured.
 
 ```text
 NETWORK
-   │
-   ├── Traffic
-   │
-   ├── Protocols
-   │
-   ├── Connections
-   │
-   └── Services
-          │
-          ▼
-     ANALYSIS
-          │
-          ├── Detection
-          ├── Inspection
-          ├── Correlation
-          └── Investigation
-          │
-          ▼
-       SECURITY
+  │
+  ├── Traffic      ──► Packet Inspection
+  ├── Protocols    ──► Protocol Analysis
+  ├── Connections  ──► Session Correlation
+  └── Services     ──► Behavioral Detection
 ```
 
-### Areas of Focus
+### `AREAS OF FOCUS`
 
-`Network Security`
+<div align="center">
 
-`Traffic Analysis`
+`Network Security` · `Traffic Analysis` · `Intrusion Detection`
 
-`Intrusion Detection`
+`Ethical Hacking` · `Malware Analysis` · `Reverse Engineering`
 
-`Ethical Hacking`
+`Cryptography` · `Security Automation` · `Security Architecture`
 
-`Malware Analysis`
+</div>
 
-`Reverse Engineering`
-
-`Cryptography`
-
-`Security Automation`
-
-`Security Architecture`
+<br>
 
 ---
 
 <div align="center">
 
-# `// NETWORK ENGINEERING`
+# `// NETWORK FOUNDATIONS`
 
 </div>
 
-My networking foundation is built around understanding how systems communicate rather than simply memorizing protocols.
-
-### Core Areas
+My networking knowledge is built around understanding **how systems actually communicate**, rather than simply memorizing protocols.
 
 ```text
 TCP / IP
@@ -222,16 +216,20 @@ Switching
 Subnetting
 Socket Programming
 Packet Analysis
-Network Troubleshooting
 Protocol Analysis
+Network Troubleshooting
 Network Security
 ```
+
+<br>
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/CCNA-CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 
 </div>
+
+<br>
 
 ---
 
@@ -241,21 +239,19 @@ Network Security
 
 </div>
 
-I approach software development from an engineering perspective.
-
-My priorities are:
+I approach software development from an engineering perspective, with emphasis on architecture, security, performance, reliability, and maintainability.
 
 ```text
-01  Architecture
-02  Maintainability
-03  Security
-04  Performance
-05  Reliability
-06  Scalability
-07  Clean Implementation
+01  ARCHITECTURE
+02  MAINTAINABILITY
+03  SECURITY
+04  PERFORMANCE
+05  RELIABILITY
+06  SCALABILITY
+07  CLEAN IMPLEMENTATION
 ```
 
-I am comfortable moving across different layers of a system:
+I move across different layers of a system and treat software as a **complete engineering environment**, not as isolated fragments of code.
 
 ```text
 USER INTERFACE
@@ -273,61 +269,80 @@ NETWORK
 HARDWARE
 ```
 
-This allows me to think about software as a **complete system**, rather than as isolated pieces of code.
+<br>
 
 ---
 
 <div align="center">
 
-# `// HOW I THINK`
+# `// ENGINEERING MINDSET`
 
 </div>
 
 <table align="center">
 <tr>
-<td align="center">
 
+<td align="center">
 <strong>01</strong><br>
-Understand the problem
-
+Understand
 </td>
 
 <td align="center">
-
 <strong>02</strong><br>
-Model the system
-
+Model
 </td>
 
 <td align="center">
-
 <strong>03</strong><br>
-Identify weaknesses
-
+Analyze
 </td>
 
 <td align="center">
-
 <strong>04</strong><br>
-Design the solution
-
+Design
 </td>
 
 <td align="center">
-
 <strong>05</strong><br>
-Measure the result
-
+Build
 </td>
 
 <td align="center">
-
 <strong>06</strong><br>
-Improve continuously
-
+Measure
 </td>
+
+<td align="center">
+<strong>07</strong><br>
+Improve
+</td>
+
 </tr>
 </table>
+
+<br>
+
+The way I approach a technical problem is simple:
+
+```text
+Understand the problem
+        ↓
+Understand the system
+        ↓
+Identify constraints
+        ↓
+Find weaknesses
+        ↓
+Design the solution
+        ↓
+Implement
+        ↓
+Test
+        ↓
+Optimize
+```
+
+<br>
 
 ---
 
@@ -335,19 +350,23 @@ Improve continuously
 
 # `// EDUCATION`
 
-### B.Sc. IN COMPUTER ENGINEERING
+### B.Sc. IN COMPUTER ENGINEERING — 2026
 
-**2026**
+**Core Areas**
 
-Computer Engineering · Computer Networks · Operating Systems · Software Engineering · Databases · Computer Architecture · Cryptography
+`Computer Networks` · `Operating Systems` · `Computer Architecture`
+
+`Software Engineering` · `Database Systems` · `Cryptography`
 
 <br>
 
-<strong>Technical Team Leader</strong>
+### TECHNICAL TEAM LEADER
 
 Technical planning · System architecture · Problem solving · Engineering coordination
 
 </div>
+
+<br>
 
 ---
 
@@ -355,9 +374,11 @@ Technical planning · System architecture · Problem solving · Engineering coor
 
 # `// CURRENT FOCUS`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=FF4ECD&center=true&vCenter=true&width=750&lines=ADVANCED+NETWORK+SECURITY;INTRUSION+DETECTION+SYSTEMS;REVERSE+ENGINEERING;MALWARE+ANALYSIS;LOW-LEVEL+PROGRAMMING;SECURE+SOFTWARE+ARCHITECTURE;SYSTEM+PERFORMANCE+ENGINEERING"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=FF4ECD&center=true&vCenter=true&width=750&lines=ADVANCED+NETWORK+SECURITY;INTRUSION+DETECTION+SYSTEMS;REVERSE+ENGINEERING;MALWARE+ANALYSIS;LOW-LEVEL+PROGRAMMING;SYSTEM+PERFORMANCE+ENGINEERING;SECURE+SOFTWARE+ARCHITECTURE"/>
 
 </div>
+
+<br>
 
 ---
 
@@ -367,37 +388,37 @@ Technical planning · System architecture · Problem solving · Engineering coor
 
 <br>
 
-### "Don't just use technology. Understand it."
+### `"Don't just use technology. Understand it."`
 
 <br>
 
 I believe strong engineers are not defined by the number of technologies they can list.
 
-They are defined by their ability to:
+They are defined by their ability to **understand complex systems**, **solve difficult problems**, **question assumptions**, **learn continuously**, and **build with security in mind**.
 
-**Understand complex systems.**
+</div>
 
-**Solve difficult problems.**
-
-**Question assumptions.**
-
-**Learn continuously.**
-
-**Build with security in mind.**
+<br>
 
 ---
 
+<div align="center">
+
 # `// GITHUB`
 
-<img src="https://github-readme-stats.vercel.app/api?username=mox2233&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF4ECD&text_color=C9D1D9&ring_color=7B61FF" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mox2233&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" height="180"/>
-
 <br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=mox2233&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF4ECD&text_color=C9D1D9&ring_color=7B61FF" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mox2233&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" height="170"/>
+
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=mox2233&theme=tokyonight&hide_border=true&background=0D1117&ring=FF4ECD&fire=00D9FF&currStreakLabel=00D9FF"/>
 
 </div>
+
+<br>
 
 ---
 
@@ -405,16 +426,17 @@ They are defined by their ability to:
 
 # `// MISSION`
 
-### BUILD SYSTEMS.
+### `BUILD SYSTEMS`
 
-### UNDERSTAND NETWORKS.
+### `UNDERSTAND NETWORKS`
 
-### ENGINEER SECURITY.
+### `ENGINEER SECURITY`
 
-### PUSH BEYOND THE OBVIOUS.
+### `PUSH BEYOND THE OBVIOUS`
 
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4ECD,50:7B61FF,100:00D9FF&height=140&section=footer"/>
 
 </div>
+```

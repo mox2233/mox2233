@@ -1,5 +1,3 @@
-
-````html
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B61FF,100:FF4ECD&height=240&section=header&text=MOHAMED%20NABIL&font=Fira%20Code&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=COMPUTER%20ENGINEER%20%20%7C%20%20SYSTEMS%20%20%7C%20%20NETWORK%20SECURITY&descAlignY=58&descSize=15&descColor=C9D1D9&animation=fadeIn"/>
@@ -439,4 +437,3 @@ They are defined by their ability to **understand complex systems**, **solve dif
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4ECD,50:7B61FF,100:00D9FF&height=140&section=footer"/>
 
 </div>
-```
